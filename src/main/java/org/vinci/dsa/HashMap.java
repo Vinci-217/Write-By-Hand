@@ -1,4 +1,4 @@
-package org.vinci.collection;
+package org.vinci.dsa;
 
 public class HashMap {
     private final int DEFAULT_CAPACITY = 10000;
